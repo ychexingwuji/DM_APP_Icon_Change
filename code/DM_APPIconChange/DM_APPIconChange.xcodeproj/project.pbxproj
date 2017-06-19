@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BCE9C9B11EF81EB500E8E87B /* cloudy@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9A71EF81EB500E8E87B /* cloudy@2x.png */; };
+		BCE9C9B21EF81EB500E8E87B /* cloudy@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9A81EF81EB500E8E87B /* cloudy@3x.png */; };
+		BCE9C9B31EF81EB500E8E87B /* fine@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9A91EF81EB500E8E87B /* fine@2x.png */; };
+		BCE9C9B41EF81EB500E8E87B /* fine@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AA1EF81EB500E8E87B /* fine@3x.png */; };
+		BCE9C9B51EF81EB500E8E87B /* heavyrain@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AB1EF81EB500E8E87B /* heavyrain@2x.png */; };
+		BCE9C9B61EF81EB500E8E87B /* heavyrain@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AC1EF81EB500E8E87B /* heavyrain@3x.png */; };
+		BCE9C9B71EF81EB500E8E87B /* snow@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AD1EF81EB500E8E87B /* snow@2x.png */; };
+		BCE9C9B81EF81EB500E8E87B /* snow@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AE1EF81EB500E8E87B /* snow@3x.png */; };
+		BCE9C9B91EF81EB500E8E87B /* sprinkles@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9AF1EF81EB500E8E87B /* sprinkles@2x.png */; };
+		BCE9C9BA1EF81EB500E8E87B /* sprinkles@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = BCE9C9B01EF81EB500E8E87B /* sprinkles@3x.png */; };
 		F368578F1EF2B42C00EE9600 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F368578E1EF2B42C00EE9600 /* main.m */; };
 		F36857921EF2B42C00EE9600 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F36857911EF2B42C00EE9600 /* AppDelegate.m */; };
 		F36857951EF2B42C00EE9600 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F36857941EF2B42C00EE9600 /* ViewController.m */; };
@@ -16,6 +26,16 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BCE9C9A71EF81EB500E8E87B /* cloudy@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cloudy@2x.png"; sourceTree = "<group>"; };
+		BCE9C9A81EF81EB500E8E87B /* cloudy@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cloudy@3x.png"; sourceTree = "<group>"; };
+		BCE9C9A91EF81EB500E8E87B /* fine@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fine@2x.png"; sourceTree = "<group>"; };
+		BCE9C9AA1EF81EB500E8E87B /* fine@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fine@3x.png"; sourceTree = "<group>"; };
+		BCE9C9AB1EF81EB500E8E87B /* heavyrain@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "heavyrain@2x.png"; sourceTree = "<group>"; };
+		BCE9C9AC1EF81EB500E8E87B /* heavyrain@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "heavyrain@3x.png"; sourceTree = "<group>"; };
+		BCE9C9AD1EF81EB500E8E87B /* snow@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "snow@2x.png"; sourceTree = "<group>"; };
+		BCE9C9AE1EF81EB500E8E87B /* snow@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "snow@3x.png"; sourceTree = "<group>"; };
+		BCE9C9AF1EF81EB500E8E87B /* sprinkles@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sprinkles@2x.png"; sourceTree = "<group>"; };
+		BCE9C9B01EF81EB500E8E87B /* sprinkles@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sprinkles@3x.png"; sourceTree = "<group>"; };
 		F368578A1EF2B42C00EE9600 /* DM_APPIconChange.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DM_APPIconChange.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F368578E1EF2B42C00EE9600 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F36857901EF2B42C00EE9600 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,6 +59,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BCE9C9A61EF81D9C00E8E87B /* icon */ = {
+			isa = PBXGroup;
+			children = (
+				BCE9C9A71EF81EB500E8E87B /* cloudy@2x.png */,
+				BCE9C9A81EF81EB500E8E87B /* cloudy@3x.png */,
+				BCE9C9A91EF81EB500E8E87B /* fine@2x.png */,
+				BCE9C9AA1EF81EB500E8E87B /* fine@3x.png */,
+				BCE9C9AB1EF81EB500E8E87B /* heavyrain@2x.png */,
+				BCE9C9AC1EF81EB500E8E87B /* heavyrain@3x.png */,
+				BCE9C9AD1EF81EB500E8E87B /* snow@2x.png */,
+				BCE9C9AE1EF81EB500E8E87B /* snow@3x.png */,
+				BCE9C9AF1EF81EB500E8E87B /* sprinkles@2x.png */,
+				BCE9C9B01EF81EB500E8E87B /* sprinkles@3x.png */,
+			);
+			path = icon;
+			sourceTree = "<group>";
+		};
 		F36857811EF2B42C00EE9600 = {
 			isa = PBXGroup;
 			children = (
@@ -74,6 +111,7 @@
 		F368578D1EF2B42C00EE9600 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				BCE9C9A61EF81D9C00E8E87B /* icon */,
 				F368578E1EF2B42C00EE9600 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,9 +176,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BCE9C9B61EF81EB500E8E87B /* heavyrain@3x.png in Resources */,
+				BCE9C9B71EF81EB500E8E87B /* snow@2x.png in Resources */,
+				BCE9C9BA1EF81EB500E8E87B /* sprinkles@3x.png in Resources */,
 				F368579D1EF2B42C00EE9600 /* LaunchScreen.storyboard in Resources */,
 				F368579A1EF2B42C00EE9600 /* Assets.xcassets in Resources */,
+				BCE9C9B81EF81EB500E8E87B /* snow@3x.png in Resources */,
+				BCE9C9B11EF81EB500E8E87B /* cloudy@2x.png in Resources */,
 				F36857981EF2B42C00EE9600 /* Main.storyboard in Resources */,
+				BCE9C9B51EF81EB500E8E87B /* heavyrain@2x.png in Resources */,
+				BCE9C9B91EF81EB500E8E87B /* sprinkles@2x.png in Resources */,
+				BCE9C9B41EF81EB500E8E87B /* fine@3x.png in Resources */,
+				BCE9C9B31EF81EB500E8E87B /* fine@2x.png in Resources */,
+				BCE9C9B21EF81EB500E8E87B /* cloudy@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
