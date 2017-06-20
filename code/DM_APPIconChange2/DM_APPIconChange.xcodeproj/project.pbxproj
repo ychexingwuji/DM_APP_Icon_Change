@@ -23,6 +23,7 @@
 		F36857981EF2B42C00EE9600 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F36857961EF2B42C00EE9600 /* Main.storyboard */; };
 		F368579A1EF2B42C00EE9600 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F36857991EF2B42C00EE9600 /* Assets.xcassets */; };
 		F368579D1EF2B42C00EE9600 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F368579B1EF2B42C00EE9600 /* LaunchScreen.storyboard */; };
+		F3FE04B11EF8E43D007BBDD2 /* UIViewController+Present.m in Sources */ = {isa = PBXBuildFile; fileRef = F3FE04B01EF8E43D007BBDD2 /* UIViewController+Present.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,8 @@
 		F36857991EF2B42C00EE9600 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F368579C1EF2B42C00EE9600 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F368579E1EF2B42C00EE9600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F3FE04AF1EF8E43D007BBDD2 /* UIViewController+Present.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Present.h"; sourceTree = "<group>"; };
+		F3FE04B01EF8E43D007BBDD2 /* UIViewController+Present.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Present.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +98,8 @@
 		F368578C1EF2B42C00EE9600 /* DM_APPIconChange */ = {
 			isa = PBXGroup;
 			children = (
+				F3FE04AF1EF8E43D007BBDD2 /* UIViewController+Present.h */,
+				F3FE04B01EF8E43D007BBDD2 /* UIViewController+Present.m */,
 				F36857901EF2B42C00EE9600 /* AppDelegate.h */,
 				F36857911EF2B42C00EE9600 /* AppDelegate.m */,
 				F36857931EF2B42C00EE9600 /* ViewController.h */,
@@ -201,6 +206,7 @@
 			files = (
 				F36857951EF2B42C00EE9600 /* ViewController.m in Sources */,
 				F36857921EF2B42C00EE9600 /* AppDelegate.m in Sources */,
+				F3FE04B11EF8E43D007BBDD2 /* UIViewController+Present.m in Sources */,
 				F368578F1EF2B42C00EE9600 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -22,7 +22,6 @@
     
     self.weathers = @[@"fine", @"cloudy", @"sprinkles", @"heavyrain", @"snow", @""];
     
-    
     UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
     [button setTitle:@"查询今天的天气并更换响应图标" forState:UIControlStateNormal];
     [button setTitleColor:[UIColor blueColor] forState:UIControlStateNormal];
